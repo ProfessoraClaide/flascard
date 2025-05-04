@@ -1,9 +1,12 @@
 body{
     background-color: beige;
 }
-footer{
+footer {
     background-color: black;
     color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
 }
 footer p{
     text-align: center;
